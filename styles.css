@@ -1,0 +1,19 @@
+/* Styles page*/
+
+@font-face {
+    font-family: "Montez";
+    src: url(Montez-Regular.ttf);
+}
+
+body {
+    font-family: Montez;
+    font-weight: 900;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-image: IMG_7833;
+}
